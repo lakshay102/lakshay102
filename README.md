@@ -13,7 +13,7 @@ I build backend systems, scalable APIs, and practical software solutions. I enjo
 
 📍 Delhi, India · Open to learning, building, and collaborating.
 
----
+<!-- --- -->
 
 ## 🧰 Tech Stack
 
@@ -48,7 +48,7 @@ I build backend systems, scalable APIs, and practical software solutions. I enjo
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs_&_RAG-412991?style=for-the-badge)
 
----
+<!-- --- -->
 
 ## 📊 GitHub at a Glance
 
