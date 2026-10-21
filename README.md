@@ -61,15 +61,15 @@ I build backend systems, scalable APIs, and practical software solutions. I enjo
   <img src="https://streak-stats.demolab.com?user=lakshay102&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay102&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lakshay102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub profile trophies" />
-</p>
+</p> -->
 
----
+<!-- --- -->
 
 ## 🚀 What I Build
 
@@ -78,7 +78,7 @@ I build backend systems, scalable APIs, and practical software solutions. I enjo
 - **Mobile applications:** Flutter apps with local persistence and state management.
 - **Developer infrastructure:** Linux deployments, Nginx, SSL, Docker, monitoring, and CI/CD workflows.
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects -->
 
 <!-- Explore my repositories and discover what I'm building: -->
 
@@ -86,7 +86,7 @@ I build backend systems, scalable APIs, and practical software solutions. I enjo
 
 <!-- *Pin your best 3–6 repositories here so visitors can quickly find your strongest work.* -->
 
----
+<!-- --- -->
 
 ## 🤝 Let's Connect
 
