@@ -80,11 +80,11 @@ I build backend systems, scalable APIs, and practical software solutions. I enjo
 
 ## 📌 Featured Projects
 
-Explore my repositories and discover what I'm building:
+<!-- Explore my repositories and discover what I'm building: -->
 
-[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshay102?tab=repositories)
+<!-- [![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshay102?tab=repositories) -->
 
-*Pin your best 3–6 repositories here so visitors can quickly find your strongest work.*
+<!-- *Pin your best 3–6 repositories here so visitors can quickly find your strongest work.* -->
 
 ---
 
