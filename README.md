@@ -53,21 +53,13 @@ I build backend systems, scalable APIs, and practical software solutions. I enjo
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshay102&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Lakshay's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay102&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshay102&theme=tokyonight" alt="Lakshay's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshay102&theme=tokyonight" alt="Most used programming languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lakshay102&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay102&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshay102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub profile trophies" />
-</p> -->
 
 <!-- --- -->
 
